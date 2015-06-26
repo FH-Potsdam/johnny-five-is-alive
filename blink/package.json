@@ -1,0 +1,17 @@
+{
+  "name": "blink",
+  "version": "1.0.0",
+  "description": "blink it",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "express": "^4.13.0",
+    "johnny-five": "^0.8.81",
+    "mocha": "^2.2.5"
+  }
+}
