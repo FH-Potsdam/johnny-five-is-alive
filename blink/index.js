@@ -29,4 +29,4 @@ app.post('/off', function(req, res){
 //   res.send("off");
 // });
 console.log("listening on port http://localhost:" + port);
-app.listen(3000);
+app.listen(port);
