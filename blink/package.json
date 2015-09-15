@@ -4,7 +4,8 @@
   "description": "blink it",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "start":"node index.js"
   },
   "author": "",
   "license": "ISC",

@@ -7,4 +7,5 @@ Run:
 
     npm install && npm start
 
-Wait for the REPL to be there. Open [http://localhost:3000/on](http://localhost:3000/on) or [http://localhost:3000/off](http://localhost:3000/off)  
+- Wait for the REPL to be initialized.
+- Open [http://localhost:3000](http://localhost:3000)

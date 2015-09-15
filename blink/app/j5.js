@@ -18,6 +18,16 @@ var led = null;
 board.on("ready", function() {
   board_ready = true;
   led = new five.Led(13);
+    this.repl.inject({
+    // Allow limited on/off control access to the
+    // Led instance from the REPL.
+    on: function() {
+      led.on();
+    },
+    off: function() {
+      led.off();
+    }
+  });
 });
 
 exports.on = function() {
