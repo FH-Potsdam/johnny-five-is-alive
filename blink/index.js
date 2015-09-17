@@ -7,7 +7,7 @@ app.use('/', express.static(__dirname + '/public'));
 
 
 app.get('/', function(req, res){
-      res.sendfile('index.html');
+      res.sendFile('index.html');
   // res.send('hello j5');
 });
 

@@ -1,0 +1,18 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+body{
+  font-family: 'Arvo', serif;
+}
+#wrapper {
+  max-width: 60%;
+  margin:0 auto;
+  /*height: 50px;*/
+}
+p{
+  text-align: justify;
+}
