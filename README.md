@@ -3,7 +3,9 @@ Johnny Five is alive
 
 Examples for the workshop ["Johnny Five is Alive"](https://incom.org/workspace/6174) University of Applied Sciences Potsdam (Germany).
 
-### warning there might be 🐛 and 🐉  
+### warning
+
+there might be 🐛 and 🐉  
 
 ### Issues 
 
