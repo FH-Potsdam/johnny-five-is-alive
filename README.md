@@ -40,7 +40,7 @@ See the fritzing sketches and the corresponding websites below.
 
 #### RGBLED
 
-![](docs/images/rgbled.png)  
+![](docs/images/RGBLED.png)  
 ![](docs/images/rgbled-site.png)  
 
 
