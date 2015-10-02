@@ -1,18 +1,14 @@
 button
 ======
 
-Simple example using a button attached as pull up and socket.io to communicate with the client side.  
-
-![](fritzing/button_pullup.png)  
-
+Simple example using a servo attached to pin 10 and socket.io to communicate with the client side.  
 usage:  
 
     npm install && npm start  
 
 - Wait for the REPL to be initialized.
 - Open [http://localhost:3000](http://localhost:3000)  
-- press the button in the middle of the page and watch the console
-- press the button on the breadboard and watch the browser window  
+- use the knob to turn the servo
 
 Known issues:  
 

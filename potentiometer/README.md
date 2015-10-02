@@ -3,8 +3,6 @@ potentiometer
 
 Simple example using a poti attached as analog input and socket.io to communicate with the client side.  
 
-![](../docs/images/button_pullup.png)  
-
 usage:  
 
     npm install && npm start  

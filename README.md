@@ -17,7 +17,9 @@ The project contains 4 examples.
 - [blink](blink/)  
 - [button](button/)  
 - [potentiometer](potentiometer/)  
+- [RGBLED](RGBLED/)
 - [servo](servo/)
+
 
 See the fritzing sketches and the corresponding websites below.
 
@@ -35,6 +37,11 @@ See the fritzing sketches and the corresponding websites below.
 
 ![](docs/images/potentiometer.png)  
 ![](docs/images/poti-site.png)  
+
+#### RGBLED
+
+![](docs/images/rgbled.png)  
+![](docs/images/rgbled-site.png)  
 
 
 #### Servo  

@@ -3,7 +3,6 @@ button
 
 Simple example using a button attached as pull up and socket.io to communicate with the client side.  
 
-![](../docs/images/button_pullup.png)  
 
 usage:  
 
