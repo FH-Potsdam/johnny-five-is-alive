@@ -3,7 +3,7 @@ potentiometer
 
 Simple example using a poti attached as analog input and socket.io to communicate with the client side.  
 
-![](fritzing/button_pullup.png)  
+![](../docs/images/button_pullup.png)  
 
 usage:  
 
