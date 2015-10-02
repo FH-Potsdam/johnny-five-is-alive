@@ -1,11 +1,15 @@
 {
-  "name": "button",
+  "name": "servo",
   "version": "1.0.0",
   "description": "react on button press at arduino board",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabiantheblind/johnny-five-is-alive.git"
   },
   "keywords": [
     "j5"

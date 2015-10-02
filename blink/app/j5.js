@@ -23,9 +23,11 @@ board.on("ready", function() {
     // Led instance from the REPL.
     on: function() {
       led.on();
+      return 1;
     },
     off: function() {
       led.off();
+      return 0;
     }
   });
 });

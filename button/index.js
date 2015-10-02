@@ -13,16 +13,11 @@ app.get('/', function(req, res) {
 });
 // setup the board
 board.on("ready", function() {
-  board_ready = true;
-  button = new five.Button({
+  var button = new five.Button({
     pin: 2,
     isPullup: true
   });
-});
-
-// now build the connection via socket
-socket.on('connection', function(client) {
-  if (button !== null && board_ready === true) {
+  socket.on('connection', function(client) {
     // log what the client is sending
     client.on('message', function(message) {
       console.log(message);
@@ -33,8 +28,11 @@ socket.on('connection', function(client) {
       client.send(message);
       console.log("button down");
     });
-  }
+
+  });
 });
+
+// now build the connection via socket
 // run the server
 console.log("listening on port http://localhost:" + port);
 server.listen(port);
