@@ -21,7 +21,8 @@ $(document).ready(function () {
     var h = $(document).height(); //returns window height;
     var p = Math.floor(mapper(message,0, 1023,0,h));
     console.log(p);
-    $("html, body").animate({ scrollTop: p+"px" });
+    $("body").scrollTop(p / 2);
+    //$("html, body").animate({ scrollTop: p+"px" });
       // $('body').scrollTo(p);
 
   });
