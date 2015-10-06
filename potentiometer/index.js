@@ -44,5 +44,5 @@ board.on("ready", function() {
   });
 });
 // run the server
-console.log('listening on port http://localhost:' + port);
+console.log('listening on port http://localhost:' + port + '/color or scroll');
 server.listen(port);
