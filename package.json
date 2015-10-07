@@ -1,0 +1,49 @@
+{
+  "name": "johnny-five-is-alive",
+  "version": "1.0.0",
+  "description": "@FH-Potsdam project weeks playing with johnny five",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Rahel Flechtner",
+      "email": null
+    },
+    {
+      "name": "Fabian Schultz",
+      "email": null
+    },
+    {
+      "name": "Jasper Precht",
+      "email": null
+    },
+    {
+      "name": "Matias Lasen",
+      "email": null
+    }
+  ],
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FH-Potsdam/johnny-five-is-alive.git"
+  },
+  "keywords": [
+    "j5",
+    "johnny-five",
+    "FHP",
+    "FH-Potsdam"
+  ],
+  "author": {
+    "name": "Fabian Morón Zirfas",
+    "email": "<fabiantheblind@gmail.com>"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FH-Potsdam/johnny-five-is-alive/issues"
+  },
+  "homepage": "https://github.com/FH-Potsdam/johnny-five-is-alive#readme"
+}
