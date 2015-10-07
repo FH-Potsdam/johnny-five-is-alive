@@ -1,0 +1,19 @@
+.image {
+  width: 20%;
+  background-color: transparent;
+}
+
+.chair,
+.girl {
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.girl {
+  display: none;
+}
+
+.down .girl {
+  display: block;
+}
