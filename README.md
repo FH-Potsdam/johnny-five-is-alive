@@ -1,6 +1,8 @@
 Johnny Five is alive  
 ====================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FH-Potsdam/johnny-five-is-alive?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
+
 Examples for the workshop ["Johnny Five is Alive"](https://incom.org/workspace/6174) @ the University of Applied Sciences Potsdam (Germany).  
 
 >Terms such as IOT, "Web of Things" or "Connected Devices" are used in an inflationary way in online and offline media. It is claimed that in 5 years 25 to 75 billion objects will be connected to the Internet. In order to develop prototypes for this field we require a toolkit that allows to mold hardware control and software from a single source.  
